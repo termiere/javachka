@@ -1,4 +1,4 @@
-package prone.pro;
+package l1.h1;
 
 public class Main {
     static double e = 0.0001;

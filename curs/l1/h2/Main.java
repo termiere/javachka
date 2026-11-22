@@ -1,4 +1,4 @@
-package prone.prs;
+package l1.h2;
 import static java.lang.Math.PI;
 
 public class Main {
